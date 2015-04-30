@@ -40,11 +40,7 @@ As seen from the command, the script takes in 6 commands. They are as follows:
 
 5) 
 
-5) Column name of the category being compared as labelled in the mapping file (which is called **Treatment** in the above example)
-
-6) Output file contaiing result (which is called **ZINB_NB_Output_result.txt** in the above example)
-
-7) No. of cores to use. More cores on machine, faster the analysis will complete (which is **2** in the above example)
+6) No. of cores to use. More cores on machine, faster the analysis will complete (which is **4** in the above example)
 
 Please ensure that all the 8 arguments are provided, in the correct order and format. Otherwise, the script will crash and cause problems.
 
