@@ -61,7 +61,9 @@ The output of the script contains information about the final model obtained via
 
 2) **Column # 2**: Indicates the method used to generate the model. There will be 10 distinct values in this column. The ten distinct values are: **Lasso**,**EN_0.1**,**EN_0.2**,**EN_0.3**,**EN_0.4**,**EN_0.5**,**EN_0.6**,**EN_0.7**,**EN_0.8**,**EN_0.9**.
 
+\alpha
 
+**Lasso** refers to 
 
 3) **Column # 3**: Indicates the estimated regression coefficient. The regression coefficient value of X can be interpreted as "*for a unit change in explanatory variable (increase in a count of 1 of an OTU), one would expect X increase/decrease in the log-odds of the response variable*". For more details about this, read the [glmnet vignette](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html#log).
 
