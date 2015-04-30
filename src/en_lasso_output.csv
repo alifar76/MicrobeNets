@@ -1,0 +1,1107 @@
+Treatment,Lasso,6.40983854337622,(Intercept),(Intercept),Low
+Treatment,Lasso,-0.0015695870988589,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,Lasso,6.61226726466388e-05,OTU_40317,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,Lasso,-0.00163602447922507,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,Lasso,-0.000246951146193422,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,Lasso,0.000275191259374288,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,Lasso,-0.0160287583687637,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,Lasso,-0.000206180444994112,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,Lasso,0.000280427532479558,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,Lasso,0.000872313152770033,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,Lasso,-0.000157180283745182,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,Lasso,-9.36400260064182e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,Lasso,7.86199763562496e-05,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,Lasso,-0.00315904610762844,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,Lasso,-0.000242501588251875,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,Lasso,-0.000593065298409032,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,Lasso,-0.0402940088171424,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,Lasso,0.000134597214836192,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,Lasso,-0.000109566528284815,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,Lasso,-6.56540599850877e-05,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,Lasso,0.00241320729892008,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,Lasso,-0.00976464241997169,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,Lasso,0.00129422661075943,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,Lasso,-0.000322412218129349,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,Lasso,-0.078775783951941,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,Lasso,-0.000431983875035027,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,Lasso,0.00356543436580754,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,Lasso,3.83919153567684e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,Lasso,-8.04530954235729e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,Lasso,0.011628725617621,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,Lasso,1.58091338833501e-06,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,Lasso,2.52641362039681e-05,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,Lasso,-0.00401964200624871,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,Lasso,-2.15361681455962e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,Lasso,0.000427755677106747,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,Lasso,0.00184726154522747,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,Lasso,-0.000315757767276915,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,Lasso,-0.00230561277043026,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,Lasso,-0.000857480999295959,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,Lasso,-0.00635003160957887,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,Lasso,-0.00103427476676788,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,Lasso,0.0102279693167278,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,Lasso,-0.00156905152038105,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,Lasso,0.000388759032525139,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,Lasso,0.0010918540121368,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,Lasso,0.0012081215830901,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,Lasso,-0.00577343583353621,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,Lasso,0.00118952085959255,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,Lasso,0.00945193114023322,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,Lasso,0.000953443178899034,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,Lasso,-0.00279959057128866,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,Lasso,-0.0116663786864184,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,Lasso,4.54264011810732e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,Lasso,2.0954623889082e-06,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,Lasso,0.00458348678614192,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,Lasso,0.00021050443422365,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,Lasso,0.104245480282014,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,Lasso,0.128159479494255,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,Lasso,-0.000753835950744848,OTU_1156,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,Lasso,0.000187608215245474,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,Lasso,0.000944318040315483,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,Lasso,0.0103154493305806,OTU_8249,Unassigned,Low
+Treatment,Lasso,0.000256917921268142,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,Lasso,-0.000571480553645295,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,Lasso,-0.000124892652717954,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,Lasso,-0.00588902070244336,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,Lasso,0.000245595996101061,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,Lasso,-0.034455308053001,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,Lasso,0.00501747351210521,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,Lasso,-0.000611282033342841,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,Lasso,0.00812810115586054,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,Lasso,-0.0363773083475354,OTU_974,Unassigned,High
+Treatment,Lasso,-0.00116676343229316,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,Lasso,0.0151224824824348,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,Lasso,0.000267563295107585,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,Lasso,-0.0223486869589266,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,Lasso,-0.000764505924834529,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,Lasso,-0.000522928466230675,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.1,3.44057122406755,(Intercept),(Intercept),Low
+Treatment,EN_0.1,-0.000710770211177644,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.1,7.94659844580101e-05,OTU_26,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Ruminococcaceae: g__Faecalibacterium: s__prausnitzii,Low
+Treatment,EN_0.1,0.000140960381463617,OTU_40317,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.1,6.99519320807994e-07,OTU_43333,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__aureus,Low
+Treatment,EN_0.1,3.55466608545399e-05,OTU_45227,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.1,-0.00123296436537085,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.1,9.7775800102164e-05,OTU_18,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.1,-0.000134639012911533,OTU_89,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Carnobacteriaceae: g__Desemzia: s__,High
+Treatment,EN_0.1,-0.000627119881209582,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,EN_0.1,0.000124220476444828,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.1,-0.0126772455170372,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.1,-8.84446109355571e-05,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.1,0.000190015672983756,OTU_65,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.1,-0.00649211249526738,OTU_22047,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.1,0.000162204043890762,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.1,0.000181296830675118,OTU_267,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Hymenobacter: s__,Low
+Treatment,EN_0.1,-0.000938993085054391,OTU_191,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.1,0.000131622968839083,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.1,4.95230441481102e-05,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.1,-4.91291068655421e-05,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.1,-5.65631707975256e-05,OTU_30,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.1,-2.95508021162611e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.1,-0.000153617349434614,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.1,8.02256242310668e-05,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.1,-0.000136076355540444,OTU_114,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae: g__Curtobacterium: s__,High
+Treatment,EN_0.1,-0.0165704238728989,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.1,-0.000646331394016308,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.1,-0.000328187825117464,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,-4.3504610434177e-05,OTU_41490,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__johnsonii,High
+Treatment,EN_0.1,0.00110748142286238,OTU_34504,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Kaistobacter: s__,Low
+Treatment,EN_0.1,0.000831933226711994,OTU_28490,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__mucilaginosa,Low
+Treatment,EN_0.1,-3.58662709298308e-05,OTU_3,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,-2.97445784525747e-05,OTU_44,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.1,0.000405148515773009,OTU_7432,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.1,0.000317513524566769,OTU_1216,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__: g__: s__,Low
+Treatment,EN_0.1,-0.00868065699548106,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,0.000390446350483114,OTU_97,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Alloiococcus: s__,Low
+Treatment,EN_0.1,7.73981567477197e-05,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.1,-4.08334067354319e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,-0.00102491135121442,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.1,0.00168846968736161,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.1,-0.0089211983054227,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.1,-0.000257916114240605,OTU_58,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Rubellimicrobium: s__,High
+Treatment,EN_0.1,0.000910878271514414,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.1,-0.000152949082501504,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.1,0.000177288333933034,OTU_415,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,Low
+Treatment,EN_0.1,2.76456373442626e-05,OTU_38132,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.1,-0.000168253067300237,OTU_37784,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,High
+Treatment,EN_0.1,-0.00104261619715804,OTU_486,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.1,0.000105914128493109,OTU_83,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Paracoccus: s__marcusii,Low
+Treatment,EN_0.1,-0.0234712149041088,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.1,-0.000226943712498364,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.1,4.81890446699816e-06,OTU_5,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.1,0.00684235215463092,OTU_973,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__Trebouxiophyceae: g__: s__,Low
+Treatment,EN_0.1,7.75210078351095e-05,OTU_15,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Aerococcus: s__,Low
+Treatment,EN_0.1,0.00233068152324824,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.1,0.000595091481295117,OTU_541,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__RF32: f__: g__: s__,Low
+Treatment,EN_0.1,0.00144451155258525,OTU_498,k__Bacteria: p__Actinobacteria: c__Coriobacteriia: o__Coriobacteriales: f__Coriobacteriaceae: g__: s__,Low
+Treatment,EN_0.1,0.000101914726719804,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.1,1.40984653054115e-05,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.1,-0.000107236458381452,OTU_170,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Novosphingobium: s__,High
+Treatment,EN_0.1,-1.85242863645502e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,0.00495136542885265,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.1,-6.40990637305179e-05,OTU_45842,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Jeotgalicoccus: s__,High
+Treatment,EN_0.1,2.44245483656549e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.1,0.0019956058685551,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.1,0.000257699122541818,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.1,-0.00274902867462357,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.1,-3.40650124048399e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.1,0.000569139981406972,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.1,4.68717979122687e-07,OTU_10,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,Low
+Treatment,EN_0.1,-2.79152995687484e-05,OTU_43735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.1,1.44430196759764e-05,OTU_42612,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,Low
+Treatment,EN_0.1,0.0025075614876869,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.1,-0.000638542460854743,OTU_22880,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.1,4.39269884809966e-05,OTU_41310,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.1,-8.49888017089914e-05,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.1,-0.0053004750932424,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.1,-0.000896997586762824,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.1,-0.00241883771698247,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,7.93424026791411e-07,OTU_17848,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Serratia: s__marcescens,Low
+Treatment,EN_0.1,-0.00363945021577532,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,0.000360590742853251,OTU_157,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae,Low
+Treatment,EN_0.1,0.0075457169106991,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.1,-0.00642499788285086,OTU_1251,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Hymenobacter: s__,High
+Treatment,EN_0.1,-0.00306695455616776,OTU_1000,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.1,-1.99816167055584e-05,OTU_36,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Oxalobacteraceae: g__: s__,High
+Treatment,EN_0.1,0.0030259708304602,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.1,3.49359258344196e-05,OTU_12,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__iners,Low
+Treatment,EN_0.1,-0.0021558764276518,OTU_690,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Porphyromonadaceae: g__Dysgonomonas: s__,High
+Treatment,EN_0.1,-0.00526550241985117,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.1,0.000278909352757947,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.1,-0.00318912766557669,OTU_2400,k__Bacteria: p__Bacteroidetes: c__Sphingobacteriia: o__Sphingobacteriales: f__Sphingobacteriaceae: g__: s__,High
+Treatment,EN_0.1,-0.00115808154782287,OTU_37589,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Bradyrhizobiaceae: g__: s__,High
+Treatment,EN_0.1,0.000312989906145323,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.1,0.000472864969639144,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.1,-0.00224542788666692,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.1,0.000524606209632197,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.1,0.00346523975589696,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.1,0.000468488208539121,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.1,0.00903878400211252,OTU_13844,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.1,5.48870374827336e-05,OTU_46508,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.1,-0.00168768019219442,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.1,-2.49289743743608e-06,OTU_15076,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.1,-0.00304769276713023,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.1,4.86396564203315e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.1,-0.00583299244203445,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.1,0.00557501560015878,OTU_1884,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Hymenobacter: s__,Low
+Treatment,EN_0.1,0.000322423878620154,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.1,-0.000438856770572363,OTU_342,k__Bacteria: p__Chloroflexi: c__Ellin6529: o__: f__: g__: s__,High
+Treatment,EN_0.1,0.00289847613045466,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.1,0.00011925222714781,OTU_42,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,Low
+Treatment,EN_0.1,-0.000299877021354454,OTU_13639,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,0.00031478487791085,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.1,8.81740272902944e-05,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.1,0.0387510037911798,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.1,-0.000671715495088443,OTU_631,k__Bacteria: p__[Thermi]: c__Deinococci: o__Deinococcales: f__Deinococcaceae: g__Deinococcus: s__,High
+Treatment,EN_0.1,2.3773109778649e-05,OTU_29,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,Low
+Treatment,EN_0.1,0.0810420244939964,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.1,9.45911804777549e-05,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.1,0.0328989210584818,OTU_4407,Unassigned,Low
+Treatment,EN_0.1,0.000432263115831292,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.1,0.0219226766428052,OTU_8249,Unassigned,Low
+Treatment,EN_0.1,0.0206971391727112,OTU_1421,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.1,0.000616695670932098,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.1,-0.000228550169220888,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.1,-0.000843288746303328,OTU_46645,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Roseburia: s__,High
+Treatment,EN_0.1,-0.000389961090337937,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.1,-0.000458449776853763,OTU_46606,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.1,-0.00281840768437276,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.1,0.00027979095072651,OTU_172,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.1,0.000142833083377551,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.1,0.00169702000237499,OTU_257,Unassigned,Low
+Treatment,EN_0.1,0.0027709283571764,OTU_30460,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Mycobacteriaceae: g__Mycobacterium: s__,Low
+Treatment,EN_0.1,-0.0193068268799828,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.1,0.342513161374705,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.1,7.38022054438011e-05,OTU_357,k__Bacteria: p__Firmicutes: c__Bacilli: o__Turicibacterales: f__Turicibacteraceae: g__Turicibacter: s__,Low
+Treatment,EN_0.1,0.00190969531268615,OTU_966,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Dyadobacter: s__,Low
+Treatment,EN_0.1,-0.000358656570574324,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.1,-0.000197214071954826,OTU_37,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Rhodospirillaceae: g__Skermanella: s__,High
+Treatment,EN_0.1,-6.07243514394808e-05,OTU_22,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Methylobacteriaceae: g__Methylobacterium: s__,High
+Treatment,EN_0.1,0.000130944869547835,OTU_106,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Listeriaceae: g__: s__,Low
+Treatment,EN_0.1,0.00472282423850683,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.1,-0.0157563096392128,OTU_974,Unassigned,High
+Treatment,EN_0.1,-0.00130539567561981,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.1,-0.000964651005287148,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.1,0.00595194920511261,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.1,-0.00102986003737387,OTU_46481,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.1,0.000441038493306774,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.1,0.000162289259150143,OTU_92,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Jeotgalicoccus: s__,Low
+Treatment,EN_0.1,0.000160744029208006,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.1,0.000995872048448832,OTU_261,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__: g__: s__,Low
+Treatment,EN_0.1,-0.0155006570999684,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.1,-0.000715983119713848,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.1,-0.000462388831468779,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.1,0.00580090169816912,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.1,-0.000282540821180564,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.1,0.0033706597894639,OTU_39308,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Facklamia: s__,Low
+Treatment,EN_0.2,4.15454992272991,(Intercept),(Intercept),Low
+Treatment,EN_0.2,-0.0009403679581888,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.2,7.60292560557545e-05,OTU_26,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Ruminococcaceae: g__Faecalibacterium: s__prausnitzii,Low
+Treatment,EN_0.2,7.86059371210063e-05,OTU_40317,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.2,-0.00146677327026746,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.2,8.1126231588633e-05,OTU_18,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.2,-8.92466286750849e-05,OTU_89,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Carnobacteriaceae: g__Desemzia: s__,High
+Treatment,EN_0.2,-0.000611318633551744,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,EN_0.2,0.000140290439074051,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.2,-0.0137520850009373,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.2,-0.000115659050333292,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.2,0.000197795538313128,OTU_65,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.2,-0.00652427742550129,OTU_22047,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.2,0.000202313724278046,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.2,-0.000928295316727736,OTU_191,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.2,8.99524074270623e-05,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.2,6.67236395643645e-05,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.2,-6.50512719632017e-05,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.2,-6.27916049394966e-05,OTU_30,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.2,-3.86205436607936e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.2,-0.000149997908259254,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.2,0.000100157400377302,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.2,-5.7281541515483e-05,OTU_114,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae: g__Curtobacterium: s__,High
+Treatment,EN_0.2,-0.0186285485144592,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.2,-0.000725532016452583,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.2,-0.000397718584965352,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,-4.7263199907477e-05,OTU_41490,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__johnsonii,High
+Treatment,EN_0.2,7.19725617386656e-05,OTU_34504,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Kaistobacter: s__,Low
+Treatment,EN_0.2,0.000777874271568203,OTU_28490,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__mucilaginosa,Low
+Treatment,EN_0.2,-3.46643616211255e-05,OTU_3,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,-4.20257496449793e-06,OTU_44,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.2,9.35758014237141e-05,OTU_7432,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.2,-0.00982955995738761,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,0.000378641433021167,OTU_97,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Alloiococcus: s__,Low
+Treatment,EN_0.2,9.4340179664104e-05,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.2,-4.58746473485017e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,-0.00129242849292154,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.2,0.00208919204280748,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.2,-0.0101029650958888,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.2,-0.000283165753499165,OTU_58,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Rubellimicrobium: s__,High
+Treatment,EN_0.2,0.00101999773318332,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.2,-0.000186390446673623,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.2,1.79431616697841e-05,OTU_38132,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.2,-0.000118761850266202,OTU_37784,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,High
+Treatment,EN_0.2,-0.000602519073390371,OTU_486,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.2,9.63451533505842e-05,OTU_83,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Paracoccus: s__marcusii,Low
+Treatment,EN_0.2,-0.0313612475018492,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.2,-0.000281265944861819,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.2,3.96739166157194e-06,OTU_5,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.2,0.00692043261019229,OTU_973,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__Trebouxiophyceae: g__: s__,Low
+Treatment,EN_0.2,7.78450465984838e-05,OTU_15,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Aerococcus: s__,Low
+Treatment,EN_0.2,0.00307742654117089,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.2,0.00167918091360413,OTU_498,k__Bacteria: p__Actinobacteria: c__Coriobacteriia: o__Coriobacteriales: f__Coriobacteriaceae: g__: s__,Low
+Treatment,EN_0.2,8.91551887189384e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.2,1.6031983015033e-05,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.2,-0.000121865496726985,OTU_170,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Novosphingobium: s__,High
+Treatment,EN_0.2,-2.65118607875831e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,0.00630910708037456,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.2,-9.11273478284212e-05,OTU_45842,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Jeotgalicoccus: s__,High
+Treatment,EN_0.2,2.77372022787772e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.2,0.00270774594227379,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.2,0.000252748754841935,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.2,-0.00344716640864237,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.2,-3.66197859401519e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.2,0.000644441260171126,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.2,-1.85320948600169e-05,OTU_43735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.2,1.46041001812811e-05,OTU_42612,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,Low
+Treatment,EN_0.2,0.00317123657369114,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.2,-0.000361952566387241,OTU_22880,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.2,-0.000107364285603755,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.2,-0.00666764346983961,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.2,-0.00111384800010646,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.2,-0.00317196763772601,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,-0.00419957156022646,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,0.000258015498740328,OTU_157,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae,Low
+Treatment,EN_0.2,0.00933512166403543,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.2,-0.00199214175244008,OTU_1251,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Hymenobacter: s__,High
+Treatment,EN_0.2,-0.00216779430085753,OTU_1000,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.2,0.00401080732036665,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.2,3.90950747665534e-05,OTU_12,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__iners,Low
+Treatment,EN_0.2,-0.00153393220945036,OTU_690,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Porphyromonadaceae: g__Dysgonomonas: s__,High
+Treatment,EN_0.2,-0.00606463760693385,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.2,0.000291781161057533,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.2,-0.0029905549901026,OTU_2400,k__Bacteria: p__Bacteroidetes: c__Sphingobacteriia: o__Sphingobacteriales: f__Sphingobacteriaceae: g__: s__,High
+Treatment,EN_0.2,0.000426829162363833,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.2,0.000617667163914103,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.2,-0.00293842091803013,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.2,0.000666942044140717,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.2,0.00453436329181572,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.2,0.000605957449682286,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.2,0.0102764721192499,OTU_13844,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.2,4.93884479417759e-05,OTU_46508,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.2,-0.00196635142835757,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.2,-0.00439788660214028,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.2,5.9092427782519e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.2,-0.00697315725073799,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.2,0.00436357725239611,OTU_1884,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Hymenobacter: s__,Low
+Treatment,EN_0.2,0.00033522840764617,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.2,-0.000406359698321549,OTU_342,k__Bacteria: p__Chloroflexi: c__Ellin6529: o__: f__: g__: s__,High
+Treatment,EN_0.2,0.00370732817468764,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.2,0.000119278272885012,OTU_42,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,Low
+Treatment,EN_0.2,-0.000296993732642589,OTU_13639,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,0.000409367930140022,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.2,0.000110046797277405,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.2,0.04823444964564,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.2,-0.000372113971118462,OTU_631,k__Bacteria: p__[Thermi]: c__Deinococci: o__Deinococcales: f__Deinococcaceae: g__Deinococcus: s__,High
+Treatment,EN_0.2,1.60614600684891e-05,OTU_29,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,Low
+Treatment,EN_0.2,0.0975042026791161,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.2,0.000118500453728407,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.2,0.0154557854044816,OTU_4407,Unassigned,Low
+Treatment,EN_0.2,0.000553671011999337,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.2,0.00508222266756156,OTU_8249,Unassigned,Low
+Treatment,EN_0.2,0.0177747977865081,OTU_1421,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.2,0.000745143843933299,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.2,-0.000275258952128776,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.2,-0.000560742032343718,OTU_46645,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Roseburia: s__,High
+Treatment,EN_0.2,-0.000470857223099586,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.2,-0.000549035067821492,OTU_46606,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.2,-0.00335359687230596,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.2,0.000407175296399239,OTU_172,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.2,0.00015373418580963,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.2,0.00180101309226407,OTU_257,Unassigned,Low
+Treatment,EN_0.2,0.00202932259640761,OTU_30460,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Mycobacteriaceae: g__Mycobacterium: s__,Low
+Treatment,EN_0.2,-0.0217877193851286,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.2,0.348180602353871,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.2,6.67045535971615e-05,OTU_357,k__Bacteria: p__Firmicutes: c__Bacilli: o__Turicibacterales: f__Turicibacteraceae: g__Turicibacter: s__,Low
+Treatment,EN_0.2,0.000727284384357174,OTU_966,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Dyadobacter: s__,Low
+Treatment,EN_0.2,-0.000464941628303648,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.2,-0.000180123534779879,OTU_37,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Rhodospirillaceae: g__Skermanella: s__,High
+Treatment,EN_0.2,-5.9574937228554e-05,OTU_22,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Methylobacteriaceae: g__Methylobacterium: s__,High
+Treatment,EN_0.2,0.000100868779863711,OTU_106,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Listeriaceae: g__: s__,Low
+Treatment,EN_0.2,0.00590875384489132,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.2,-0.019784869360913,OTU_974,Unassigned,High
+Treatment,EN_0.2,-0.00149714373399372,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.2,-0.00099766300148671,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.2,0.00748568433616992,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.2,-0.000896234452455483,OTU_46481,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.2,0.000510772425671452,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.2,0.000108603406099859,OTU_92,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Jeotgalicoccus: s__,Low
+Treatment,EN_0.2,0.000189286364726628,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.2,0.000740288940222975,OTU_261,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__: g__: s__,Low
+Treatment,EN_0.2,-0.0164792721065884,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.2,-0.000792173771295997,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.2,-0.000546514740189848,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.2,0.00538158122927422,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.2,-0.000354659020732179,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.2,0.00318634927785213,OTU_39308,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Facklamia: s__,Low
+Treatment,EN_0.3,4.77308907652239,(Intercept),(Intercept),Low
+Treatment,EN_0.3,-0.00113375930753884,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.3,5.01357901681758e-05,OTU_26,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Ruminococcaceae: g__Faecalibacterium: s__prausnitzii,Low
+Treatment,EN_0.3,7.54502036266904e-06,OTU_40317,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.3,-0.00161748063611111,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.3,6.19303179352208e-05,OTU_18,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.3,-2.10272035647575e-05,OTU_89,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Carnobacteriaceae: g__Desemzia: s__,High
+Treatment,EN_0.3,-0.000522781523020077,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,EN_0.3,0.000149983757334293,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.3,-0.0140147010911266,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.3,-0.000134601691343515,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.3,0.000188985583423798,OTU_65,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.3,-0.00660213656384616,OTU_22047,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.3,0.000228500707785444,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.3,-0.00093739225700481,OTU_191,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.3,7.18800790782393e-05,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.3,7.93211487853519e-05,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.3,-7.71243742758568e-05,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.3,-6.70664270660223e-05,OTU_30,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.3,-4.59165470618802e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.3,-0.000146362315180726,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.3,0.000117300471731621,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.3,-0.0195589025191588,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.3,-0.000719805764375051,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.3,-0.000437847360438493,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,-4.32729136925309e-05,OTU_41490,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__johnsonii,High
+Treatment,EN_0.3,0.000549349217033612,OTU_28490,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__mucilaginosa,Low
+Treatment,EN_0.3,-2.82623207889515e-05,OTU_3,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,-0.0127622256741477,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,0.000297006365392054,OTU_97,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Alloiococcus: s__,Low
+Treatment,EN_0.3,0.000106506570937841,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.3,-4.78240671809973e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,-0.0015715547412741,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.3,0.00238057244398602,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.3,-0.0100673087317388,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.3,-0.00028834672696767,OTU_58,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Rubellimicrobium: s__,High
+Treatment,EN_0.3,0.00108310165119806,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.3,-0.000211186568749448,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.3,-3.74677121860686e-05,OTU_37784,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,High
+Treatment,EN_0.3,7.48426217607175e-05,OTU_83,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Paracoccus: s__marcusii,Low
+Treatment,EN_0.3,-0.0388457334058425,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.3,-0.000325344010414416,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.3,6.99001547284781e-07,OTU_5,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.3,0.00600887792359278,OTU_973,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__Trebouxiophyceae: g__: s__,Low
+Treatment,EN_0.3,6.28433817106259e-05,OTU_15,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Aerococcus: s__,Low
+Treatment,EN_0.3,0.00356875581563206,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.3,0.00178053204376899,OTU_498,k__Bacteria: p__Actinobacteria: c__Coriobacteriia: o__Coriobacteriales: f__Coriobacteriaceae: g__: s__,Low
+Treatment,EN_0.3,6.70421013617607e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.3,1.68803585881041e-05,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.3,-0.000118760176762113,OTU_170,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Novosphingobium: s__,High
+Treatment,EN_0.3,-3.46173742734518e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,0.00735371477086476,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.3,-5.67513753508825e-05,OTU_45842,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Jeotgalicoccus: s__,High
+Treatment,EN_0.3,2.9886527715119e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.3,0.00331751247040627,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.3,0.000251980085957685,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.3,-0.00389586842221277,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.3,-3.65095257883079e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.3,0.000661542156238908,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.3,-6.29142435831609e-06,OTU_43735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.3,1.20397477501088e-05,OTU_42612,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,Low
+Treatment,EN_0.3,0.00351881664841412,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.3,-0.000125257727679611,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.3,-0.00788180157905644,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.3,-0.00125768984837839,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.3,-0.00376919546396321,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,-0.00458510605319925,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,8.32828763389467e-05,OTU_157,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae,Low
+Treatment,EN_0.3,0.00940222291099215,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.3,-0.000821111268566174,OTU_1000,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.3,0.00483930323502503,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.3,3.98510704341311e-05,OTU_12,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__iners,Low
+Treatment,EN_0.3,-0.000472896413131968,OTU_690,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Porphyromonadaceae: g__Dysgonomonas: s__,High
+Treatment,EN_0.3,-0.0066257498576557,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.3,0.000292496045977115,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.3,-0.00236167436342435,OTU_2400,k__Bacteria: p__Bacteroidetes: c__Sphingobacteriia: o__Sphingobacteriales: f__Sphingobacteriaceae: g__: s__,High
+Treatment,EN_0.3,0.00052705101009891,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.3,0.000736833599159059,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.3,-0.00355849053621659,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.3,0.000768034092673749,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.3,0.00532903654849192,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.3,0.000721950982601744,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.3,0.00984189934294732,OTU_13844,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.3,4.45012795663219e-05,OTU_46508,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.3,-0.00216963482611117,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.3,-0.00567880971115634,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.3,6.71434161035865e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.3,-0.00722848400894192,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.3,0.0026607901549514,OTU_1884,k__Bacteria: p__Bacteroidetes: c__Cytophagia: o__Cytophagales: f__Cytophagaceae: g__Hymenobacter: s__,Low
+Treatment,EN_0.3,0.000305789724533436,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.3,-0.000172629034643647,OTU_342,k__Bacteria: p__Chloroflexi: c__Ellin6529: o__: f__: g__: s__,High
+Treatment,EN_0.3,0.00434276401164266,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.3,0.000100109408792151,OTU_42,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,Low
+Treatment,EN_0.3,-0.000273521414363423,OTU_13639,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,0.000433939299839504,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.3,0.000128815934196443,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.3,0.0549181836589688,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.3,-3.93582788187533e-06,OTU_631,k__Bacteria: p__[Thermi]: c__Deinococci: o__Deinococcales: f__Deinococcaceae: g__Deinococcus: s__,High
+Treatment,EN_0.3,7.45554474705202e-06,OTU_29,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,Low
+Treatment,EN_0.3,0.108864727788375,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.3,-9.18744303976832e-06,OTU_1156,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.3,0.000135059753605241,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.3,0.000635177890046442,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.3,0.0120851755524954,OTU_1421,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.3,0.000825546279633095,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.3,-0.00031038959699125,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.3,-0.000393684921957591,OTU_46645,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Roseburia: s__,High
+Treatment,EN_0.3,-0.000510077296420631,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.3,-0.000572987522579789,OTU_46606,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.3,-0.00376064454098004,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.3,0.000507815565968569,OTU_172,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.3,0.000151677385427988,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.3,0.00161017957762939,OTU_257,Unassigned,Low
+Treatment,EN_0.3,0.00113000844364701,OTU_30460,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Mycobacteriaceae: g__Mycobacterium: s__,Low
+Treatment,EN_0.3,-0.021320088924852,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.3,0.333234103344448,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.3,4.31490601395605e-08,OTU_357,k__Bacteria: p__Firmicutes: c__Bacilli: o__Turicibacterales: f__Turicibacteraceae: g__Turicibacter: s__,Low
+Treatment,EN_0.3,-0.000544283448881395,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.3,-0.000110426696838975,OTU_37,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Rhodospirillaceae: g__Skermanella: s__,High
+Treatment,EN_0.3,-5.49019920789835e-05,OTU_22,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Methylobacteriaceae: g__Methylobacterium: s__,High
+Treatment,EN_0.3,4.86187823709923e-05,OTU_106,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Listeriaceae: g__: s__,Low
+Treatment,EN_0.3,0.00681897516071858,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.3,-0.0228111467297058,OTU_974,Unassigned,High
+Treatment,EN_0.3,-0.00170018587752913,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.3,-0.000937078263977795,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.3,0.00892751282533165,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.3,-0.0006997688795637,OTU_46481,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.3,0.000541369468852959,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.3,1.40519331806478e-05,OTU_92,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Jeotgalicoccus: s__,Low
+Treatment,EN_0.3,0.000204709203180373,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.3,0.000334792794093582,OTU_261,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__: g__: s__,Low
+Treatment,EN_0.3,-0.0168039802715151,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.3,-0.000791808448570065,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.3,-0.00058840428112648,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.3,0.00430360309618642,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.3,-0.000411029635974119,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.3,0.00220461392874272,OTU_39308,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Facklamia: s__,Low
+Treatment,EN_0.4,5.16934682670694,(Intercept),(Intercept),Low
+Treatment,EN_0.4,-0.00123616097170672,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.4,5.38167392923482e-06,OTU_26,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Ruminococcaceae: g__Faecalibacterium: s__prausnitzii,Low
+Treatment,EN_0.4,-0.00169075910951186,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.4,4.43710624115189e-05,OTU_18,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.4,-0.000487899267430293,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,EN_0.4,0.000155172257609628,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.4,-0.0137289696253385,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.4,-0.000142952906796707,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.4,0.000158677895464397,OTU_65,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.4,-0.00452140616032472,OTU_22047,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.4,0.000234104476934531,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.4,-0.000830852977660699,OTU_191,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.4,8.72558030933381e-05,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.4,8.26949364424369e-05,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.4,-8.23790140823004e-05,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.4,-6.89259379163415e-05,OTU_30,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.4,-5.12511224561132e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.4,-0.000106445384498269,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.4,0.000119572379081733,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.4,-0.0185177012114833,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.4,-0.000711625961842315,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.4,-0.000459810840735692,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,-3.68066371346034e-05,OTU_41490,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__johnsonii,High
+Treatment,EN_0.4,9.31345822348443e-05,OTU_28490,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__mucilaginosa,Low
+Treatment,EN_0.4,-2.4040436018662e-05,OTU_3,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,-0.0167631346730074,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,0.000112042919221601,OTU_97,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Alloiococcus: s__,Low
+Treatment,EN_0.4,0.000115733820654101,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.4,-4.84314199284543e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,-0.00176729971543541,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.4,0.00241090061808238,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.4,-0.00886333242003608,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.4,-0.000238799389035121,OTU_58,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Rubellimicrobium: s__,High
+Treatment,EN_0.4,0.00118553463392237,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.4,-0.000219159441505628,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.4,3.96917863947431e-05,OTU_83,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Paracoccus: s__marcusii,Low
+Treatment,EN_0.4,-0.044524460653907,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.4,-0.000344779169743148,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.4,0.00341475674499356,OTU_973,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Chlorophyta: f__Trebouxiophyceae: g__: s__,Low
+Treatment,EN_0.4,3.85417403133746e-05,OTU_15,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Aerococcus: s__,Low
+Treatment,EN_0.4,0.00371649728253931,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.4,0.0017099788724804,OTU_498,k__Bacteria: p__Actinobacteria: c__Coriobacteriia: o__Coriobacteriales: f__Coriobacteriaceae: g__: s__,Low
+Treatment,EN_0.4,4.93336217861261e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.4,1.45524440770742e-05,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.4,-9.70112755733681e-05,OTU_170,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Novosphingobium: s__,High
+Treatment,EN_0.4,-4.12731569430033e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,0.00818633196049989,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.4,3.3522143903581e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.4,0.0035306630627924,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.4,0.000233283830321764,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.4,-0.0039582129299369,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.4,-3.46755379399967e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.4,0.000658038802464962,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.4,6.646118752787e-06,OTU_42612,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,Low
+Treatment,EN_0.4,0.00368886937800409,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.4,-0.000137660935744819,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.4,-0.008146045573333,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.4,-0.00127386306102968,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.4,-0.00422411998857835,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,-0.00472105472808796,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,0.00808116640115142,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.4,0.00539750803646038,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.4,3.79571084608814e-05,OTU_12,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__iners,Low
+Treatment,EN_0.4,-0.00625943439063633,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.4,0.000298900865245215,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.4,-0.00121645748908332,OTU_2400,k__Bacteria: p__Bacteroidetes: c__Sphingobacteriia: o__Sphingobacteriales: f__Sphingobacteriaceae: g__: s__,High
+Treatment,EN_0.4,0.0006135795553695,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.4,0.000815609372616615,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.4,-0.00407558780487122,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.4,0.00083043617433363,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.4,0.00605329621444125,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.4,0.000784445877088929,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.4,0.0084934570857431,OTU_13844,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.4,3.63439915180084e-05,OTU_46508,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.4,-0.00218355321477057,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.4,-0.00663324048279815,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.4,6.7544152099758e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.4,-0.00691514524901061,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.4,0.000250788792945987,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.4,0.00461714349242823,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.4,4.01938464173368e-05,OTU_42,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,Low
+Treatment,EN_0.4,-0.000184373398050271,OTU_13639,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,0.000386525227969055,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.4,0.000141258681926883,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.4,0.0580216282778281,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.4,0.115652815326489,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.4,0.000135584668338515,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.4,0.00067922087676343,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.4,0.00572656612186689,OTU_1421,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.4,0.000810098363175609,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.4,-0.000339763214293023,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.4,-0.000188349860938726,OTU_46645,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Roseburia: s__,High
+Treatment,EN_0.4,-0.000495082530218994,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.4,-0.000508338789324094,OTU_46606,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.4,-0.0040417787481188,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.4,0.00051995427618529,OTU_172,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.4,0.00014418485488693,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.4,0.000997594002112812,OTU_257,Unassigned,Low
+Treatment,EN_0.4,0.000162589981947769,OTU_30460,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Mycobacteriaceae: g__Mycobacterium: s__,Low
+Treatment,EN_0.4,-0.0182328739046614,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.4,0.28287275805107,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.4,-0.000580470325015566,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.4,-4.61970039510475e-05,OTU_22,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Methylobacteriaceae: g__Methylobacterium: s__,High
+Treatment,EN_0.4,0.00711780932462162,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.4,-0.0242969943051412,OTU_974,Unassigned,High
+Treatment,EN_0.4,-0.00191152902879197,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.4,-0.000804587151604984,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.4,0.0102044171465759,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.4,-0.000511261579658035,OTU_46481,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.4,0.00055741903177002,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.4,0.000201211185765944,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.4,-0.0142885113599689,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.4,-0.000665831800054018,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.4,-0.000597067201354761,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.4,0.00332666141849728,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.4,-0.000436133897770333,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.4,0.000784941279034364,OTU_39308,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Facklamia: s__,Low
+Treatment,EN_0.5,5.11916482660461,(Intercept),(Intercept),Low
+Treatment,EN_0.5,-0.00127956524909757,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.5,-0.00169521230009397,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.5,2.9289782216726e-05,OTU_18,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.5,-0.000381942672387515,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,EN_0.5,0.000165735064715772,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.5,-0.0131460086790077,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.5,-0.000142305342509914,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.5,0.000101539939761465,OTU_65,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.5,-0.000388645019414477,OTU_22047,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Patulibacteraceae: g__: s__,High
+Treatment,EN_0.5,0.000235095978218229,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.5,-0.000436716233363595,OTU_191,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.5,0.000179078785818061,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.5,7.89093534245793e-05,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.5,-8.56565863583079e-05,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.5,-6.06267487533878e-05,OTU_30,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.5,-5.38260932121232e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.5,-5.71349846515705e-05,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.5,0.000123306359491475,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.5,-0.0167518645038977,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.5,-0.00063461662925922,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.5,-0.000477213860679401,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,-2.07465352362615e-05,OTU_41490,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__johnsonii,High
+Treatment,EN_0.5,-1.13406499615989e-05,OTU_3,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,-0.0202828587993055,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,0.000126904665895741,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.5,-4.93705042858389e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,-0.00169259016684615,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.5,0.00240329924186495,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.5,-0.00637300853098334,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.5,-0.000114900372717051,OTU_58,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodobacterales: f__Rhodobacteraceae: g__Rubellimicrobium: s__,High
+Treatment,EN_0.5,0.00134925504957143,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.5,-0.000211941123687076,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.5,-0.047377257756464,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.5,-0.000346502248416614,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.5,1.03157434766796e-05,OTU_15,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Aerococcaceae: g__Aerococcus: s__,Low
+Treatment,EN_0.5,0.00343651137686702,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.5,0.00142094712719056,OTU_498,k__Bacteria: p__Actinobacteria: c__Coriobacteriia: o__Coriobacteriales: f__Coriobacteriaceae: g__: s__,Low
+Treatment,EN_0.5,3.14203247764767e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.5,1.05726902527806e-05,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.5,-4.24679079250952e-05,OTU_170,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Novosphingobium: s__,High
+Treatment,EN_0.5,-4.63658821506689e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,0.0085721643192286,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.5,3.50810515222852e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.5,0.00322655569160632,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.5,0.000238402058816835,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.5,-0.00373399092309684,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.5,-2.99780088526274e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.5,0.000602083426370727,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.5,0.0037544312689045,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.5,-0.000145373882375199,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.5,-0.00758126468759868,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.5,-0.00115932296031679,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.5,-0.00440565143572649,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,-0.00465864682752916,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,0.00560842857756492,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.5,0.00575376837166726,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.5,3.10209197152655e-05,OTU_12,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__iners,Low
+Treatment,EN_0.5,-0.0048615728289572,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.5,0.000299990577588298,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.5,-0.000183606634201805,OTU_2400,k__Bacteria: p__Bacteroidetes: c__Sphingobacteriia: o__Sphingobacteriales: f__Sphingobacteriaceae: g__: s__,High
+Treatment,EN_0.5,0.000675661086867847,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.5,0.000854525510177428,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.5,-0.00440568776909975,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.5,0.00086250488312846,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.5,0.00659100897188301,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.5,0.000792746578761244,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.5,0.0062424540164065,OTU_13844,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.5,1.81101437913684e-05,OTU_46508,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.5,-0.00204189500436797,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.5,-0.00705095785122094,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.5,5.8017028329152e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.5,-0.00613668602118535,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.5,0.00018918785269122,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.5,0.00456330596043977,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.5,-7.14899451965275e-05,OTU_13639,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,0.000397671982765005,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.5,0.000147890652917534,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.5,0.0588872230890651,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.5,0.117252705975513,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.5,0.000127005429610502,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.5,0.00069665346535618,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.5,0.000665646738811821,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.5,-0.000362946401110523,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.5,-3.53323675263645e-05,OTU_46645,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Roseburia: s__,High
+Treatment,EN_0.5,-0.000442972472837422,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.5,-0.000363721444351189,OTU_46606,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.5,-0.00433790927226646,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.5,0.000381017019606551,OTU_172,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.5,0.000133861999066597,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.5,-0.0153969538742595,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.5,0.231047012767808,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.5,-0.000560047541782158,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.5,-3.48070963906849e-05,OTU_22,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Methylobacteriaceae: g__Methylobacterium: s__,High
+Treatment,EN_0.5,0.00725351699259744,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.5,-0.0247883769137975,OTU_974,Unassigned,High
+Treatment,EN_0.5,-0.00194192344976629,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.5,-0.000650812624203099,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.5,0.0112346845289766,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.5,-0.000309676230565191,OTU_46481,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.5,0.000528822863992376,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.5,0.000169461236727559,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.5,-0.0127878857654959,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.5,-0.000509155161923006,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.5,-0.000570813542012795,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.5,0.00345099970757705,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.5,-0.000437302074657139,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.6,4.71069624004274,(Intercept),(Intercept),Low
+Treatment,EN_0.6,-0.00124726130843042,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.6,-0.00160526068923932,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.6,9.50768637416138e-06,OTU_18,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,Low
+Treatment,EN_0.6,-0.000145620348687768,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,EN_0.6,0.000174626271394152,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.6,-0.0122489835586973,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.6,-0.000134448580822644,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.6,4.69316257786317e-05,OTU_65,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.6,0.000227090972391523,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.6,0.000341723793696715,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.6,3.98653196389221e-05,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.6,-8.10013478556145e-05,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.6,-3.69314332483727e-05,OTU_30,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.6,-5.29695596067938e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.6,-2.08713954166609e-05,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.6,0.000119001720188178,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.6,-0.0155457961320344,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.6,-0.000448509338443905,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.6,-0.000454805236704116,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.6,-0.0222220106561681,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.6,0.000120887287276596,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.6,-4.86143753799968e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.6,-0.00129730090849477,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.6,0.00230440014149967,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.6,-0.00446385457716797,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.6,0.00148320066859373,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.6,-0.000211292637313672,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.6,-0.0488175189986892,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.6,-0.000317456845757177,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.6,0.0032305857533195,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.6,0.000917353144149531,OTU_498,k__Bacteria: p__Actinobacteria: c__Coriobacteriia: o__Coriobacteriales: f__Coriobacteriaceae: g__: s__,Low
+Treatment,EN_0.6,2.29178947303738e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.6,3.74980187324656e-06,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.6,-4.69480289336402e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.6,0.00832504725332723,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.6,2.84716051751049e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.6,0.00212543959460968,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.6,0.000181748244435329,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.6,-0.0032213796273472,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.6,-2.7106619016509e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.6,0.000552620430248698,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.6,0.00366025111995849,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.6,-0.000148721503452149,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.6,-0.00612023614690386,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.6,-0.000950477587618926,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.6,-0.00432791991349101,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.6,-0.00442873185612778,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.6,0.00326953139143504,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.6,0.0058969191064718,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.6,1.7245931970382e-05,OTU_12,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__iners,Low
+Treatment,EN_0.6,-0.00399979434959469,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.6,0.00030607905389848,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.6,0.000678472311241135,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.6,0.000835781291795563,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.6,-0.00435044899201483,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.6,0.000837049070766977,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.6,0.00657607880222539,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.6,0.000766045651018038,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.6,0.00278318135366002,OTU_13844,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.6,-0.00193256588612784,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.6,-0.00693325043531109,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.6,4.39610718328428e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.6,-0.00463548987588446,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.6,0.000115630632402218,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.6,0.0041981585303184,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.6,0.000387830321760447,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.6,0.000139987551385929,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.6,0.0580569191180498,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.6,0.11175488285368,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.6,0.000117983523617126,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.6,0.000685229180784794,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.6,0.00305616690780409,OTU_8249,Unassigned,Low
+Treatment,EN_0.6,0.000509269570040793,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.6,-0.000376358935957302,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.6,-0.000388557625676277,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.6,-0.000101524026074291,OTU_46606,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.6,-0.00422558836004456,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.6,0.000172593005500487,OTU_172,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.6,0.000139623795043751,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.6,-0.0132232004749655,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.6,0.171878071038958,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.6,-0.000506299428041698,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.6,-1.98778593944427e-05,OTU_22,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Methylobacteriaceae: g__Methylobacterium: s__,High
+Treatment,EN_0.6,0.00657557117358864,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.6,-0.0248392893534128,OTU_974,Unassigned,High
+Treatment,EN_0.6,-0.00182223472660246,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.6,-0.000497792850791654,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.6,0.0111951347176567,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.6,-5.13887689713915e-05,OTU_46481,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.6,0.00047484493144247,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.6,0.000122201101498326,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.6,-0.0144374615538168,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.6,-0.000445786558248993,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.6,-0.000545200847368722,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.6,0.00345185903180688,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.6,-0.000418850805934937,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.7,4.69049304969651,(Intercept),(Intercept),Low
+Treatment,EN_0.7,-0.00125364232409066,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.7,-0.00158427125136701,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.7,-5.20974281187137e-05,OTU_161,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__: g__: s__,High
+Treatment,EN_0.7,0.000191709540933201,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.7,-0.0117115720778471,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.7,-0.000134871529465909,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.7,0.000227657012581321,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.7,0.000471007675254408,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.7,1.63395647596017e-05,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.7,-8.6972712433402e-05,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.7,-1.64021782062591e-05,OTU_30,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.7,-5.55450918187209e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.7,-8.80286754254925e-06,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.7,0.000118518996931814,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.7,-0.0132455745021504,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.7,-0.000350417825659149,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.7,-0.000456481780433761,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.7,-0.0243577657773071,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.7,0.00011829489853892,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.7,-5.04051168493289e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.7,-0.00092441627196995,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.7,0.00219753039787358,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.7,-0.00345872610424689,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.7,0.00151002794718726,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.7,-0.000223363902194716,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.7,-0.0525333631196516,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.7,-0.000314856372207758,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.7,0.00320982948198443,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.7,0.000433663521771278,OTU_498,k__Bacteria: p__Actinobacteria: c__Coriobacteriia: o__Coriobacteriales: f__Coriobacteriaceae: g__: s__,Low
+Treatment,EN_0.7,1.76860014979952e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.7,9.48174656635874e-07,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.7,-4.92153577913388e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.7,0.00872765830923531,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.7,2.27908807360311e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.7,0.00118011435618217,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.7,0.00013874590864859,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.7,-0.00291056400538219,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.7,-2.52932186196956e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.7,0.000526577460764402,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.7,0.00377353358961323,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.7,-0.000161172143232765,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.7,-0.0054600070768178,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.7,-0.000797631424953078,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.7,-0.00454804371559056,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.7,-0.00414097137883328,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.7,0.00178502470749117,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.7,0.00643102719508392,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.7,5.26091442997666e-06,OTU_12,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__iners,Low
+Treatment,EN_0.7,-0.00336677711316699,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.7,0.000331174692327412,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.7,0.000713192125368493,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.7,0.000875534416919738,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.7,-0.00439496900998739,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.7,0.000852185377262843,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.7,0.00673531315204135,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.7,0.000786066345377119,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.7,-0.00198996656201871,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.7,-0.00733265237867606,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.7,3.69095540702139e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.7,-0.00332594017293936,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.7,9.3460619544174e-05,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.7,0.00411325611079629,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.7,0.000300099654125799,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.7,0.000142724178546897,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.7,0.0623800880403997,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.7,0.109222909798087,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.7,0.000120667390363264,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.7,0.000721450265177433,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.7,0.0124110779046322,OTU_8249,Unassigned,Low
+Treatment,EN_0.7,0.00044576844720293,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.7,-0.000422812655841628,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.7,-0.000324965124793514,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.7,-0.004420574194311,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.7,5.8114332482531e-05,OTU_172,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.7,0.000147638825140922,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.7,-0.0142410791979709,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.7,0.11864434222693,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.7,-0.000497590899504387,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.7,-6.56046630998087e-06,OTU_22,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Methylobacteriaceae: g__Methylobacterium: s__,High
+Treatment,EN_0.7,0.00621350625975244,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.7,-0.0263573534433078,OTU_974,Unassigned,High
+Treatment,EN_0.7,-0.00168277828051902,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.7,-0.000394894591601542,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.7,0.0117010429899039,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.7,0.000416855974929786,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.7,8.31600058754371e-05,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.7,-0.0172936567069145,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.7,-0.000307580859942358,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.7,-0.000568493452892015,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.7,0.00296251087770633,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.7,-0.000421996599922024,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.8,4.92878448415258,(Intercept),(Intercept),Low
+Treatment,EN_0.8,-0.00132691978751309,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.8,2.7521903050391e-06,OTU_40317,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.8,-0.00160450158480182,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.8,0.000210855398233447,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.8,-0.0114249003285398,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.8,-0.000145048511447686,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.8,0.000240207788372824,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.8,0.000564690505739895,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.8,3.20715907033621e-06,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.8,-0.000103481785925379,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.8,-6.29195258934726e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.8,-8.162261027862e-06,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.8,0.000114444967140563,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.8,-0.0108179531764204,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.8,-0.000292572308822625,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.8,-0.000483970840524001,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.8,-0.0279047724789573,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.8,0.000125306369601524,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.8,-5.79665689388022e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.8,-0.00065187855458379,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.8,0.00218489787679771,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.8,-0.00334526258159232,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.8,0.00152296563142209,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.8,-0.000232852116380403,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.8,-0.0583171674159706,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.8,-0.000334558227218934,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.8,0.00339824238419426,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.8,1.73856698523416e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.8,3.77589633686832e-07,OTU_41486,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.8,-5.56160917240739e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.8,0.00953131841852095,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.8,1.80644181621358e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.8,0.000207672101487477,OTU_39713,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.8,9.0229807691575e-05,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.8,-0.00293317701128012,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.8,-2.39084649625663e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.8,0.000499019380720936,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.8,0.00355510044073166,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.8,-0.000182132469460724,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.8,-0.00522967856264625,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.8,-0.000702821290711734,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.8,-0.00499294251992814,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.8,-0.00382163403970222,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.8,0.000284237556886962,OTU_1696,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__Flavobacteriaceae: g__Flavobacterium: s__,Low
+Treatment,EN_0.8,0.00729238195741389,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.8,-0.00328988517819026,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.8,0.000405450848271831,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.8,0.000797174614158466,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.8,0.000959581436174646,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.8,-0.00470715137765531,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.8,0.00092050399287943,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.8,0.00733344526863826,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.8,0.000816280769221245,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.8,-0.00212478178914429,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.8,-0.0083599870375468,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.8,3.52243005105285e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.8,-0.00191908100839806,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.8,7.70001307175683e-05,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.8,0.00426103014157125,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.8,0.000245389137257313,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.8,0.000154985502954144,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.8,0.0707958806025598,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.8,0.110457136288136,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.8,0.000130329404897634,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.8,0.000794504692563302,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.8,0.0246658097853865,OTU_8249,Unassigned,Low
+Treatment,EN_0.8,0.000410022989323091,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.8,-0.00048699728721219,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.8,-0.000274961604968919,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.8,-0.00489791393002466,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.8,0.000165527565338456,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.8,-0.0175952921883776,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.8,0.0704054999525672,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.8,-0.000523179636532524,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.8,0.00667404016597064,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.8,-0.0290363149035335,OTU_974,Unassigned,High
+Treatment,EN_0.8,-0.00150266476560581,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.8,-0.000296537514647494,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.8,0.0126863315619684,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.8,0.000371141107077014,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.8,4.77373594482979e-05,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.8,-0.0204920982844001,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.8,-0.000160220632885105,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.8,-0.000621547814781673,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.8,0.00207993740582904,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.8,-0.000443676162566235,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.9,5.68443932582424,(Intercept),(Intercept),Low
+Treatment,EN_0.9,-0.00148784995998246,OTU_74,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Brevibacteriaceae: g__Brevibacterium: s__paucivorans,High
+Treatment,EN_0.9,2.38575755260707e-05,OTU_40317,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.9,-0.00165365723232411,OTU_3735,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__viridiflava,High
+Treatment,EN_0.9,0.000237021921184982,OTU_1721,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__sciuri,Low
+Treatment,EN_0.9,-0.0131225209147746,OTU_5128,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Morganella: s__,High
+Treatment,EN_0.9,-0.000173334987402239,OTU_16,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.9,0.000272688301481284,OTU_76,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Prevotellaceae: g__Prevotella: s__,Low
+Treatment,EN_0.9,0.00065700376260919,OTU_15259,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Neisseriales: f__Neisseriaceae: g__Neisseria: s__,Low
+Treatment,EN_0.9,5.29590525988778e-06,OTU_13,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pasteurellales: f__Pasteurellaceae: g__Haemophilus,Low
+Treatment,EN_0.9,-0.000136551780061449,OTU_4,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.9,-7.86389522636311e-05,OTU_6,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.9,-2.11112051009096e-06,OTU_134,k__Bacteria: p__Fusobacteria: c__Fusobacteriia: o__Fusobacteriales: f__Leptotrichiaceae: g__Leptotrichia: s__,High
+Treatment,EN_0.9,0.000102648844227034,OTU_5691,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.9,-0.00871298504279599,OTU_41753,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Rhizobiaceae: g__Agrobacterium: s__,High
+Treatment,EN_0.9,-0.000270717024550661,OTU_197,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,High
+Treatment,EN_0.9,-0.000552051649218787,OTU_28,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.9,-0.0338701553065318,OTU_47540,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.9,0.000140364769691508,OTU_11626,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,Low
+Treatment,EN_0.9,-7.29658087767068e-05,OTU_7,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.9,-0.00050250402409997,OTU_124,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__S24-7: g__: s__,High
+Treatment,EN_0.9,0.00238658820596014,OTU_630,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Anaerococcus: s__,Low
+Treatment,EN_0.9,-0.00578484413846401,OTU_41905,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Microbacteriaceae,High
+Treatment,EN_0.9,0.00149260559584973,OTU_228,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rickettsiales: f__mitochondria: g__: s__,Low
+Treatment,EN_0.9,-0.000250002294202702,OTU_1,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae: g__Staphylococcus: s__,High
+Treatment,EN_0.9,-0.0685794949122119,OTU_47321,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae,High
+Treatment,EN_0.9,-0.000383884279821347,OTU_25144,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__: s__,High
+Treatment,EN_0.9,0.00390680184266413,OTU_292,k__Bacteria: p__Proteobacteria: c__Betaproteobacteria: o__Burkholderiales: f__Comamonadaceae: g__Azohydromonas: s__,Low
+Treatment,EN_0.9,1.93549913004509e-05,OTU_40862,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Enterobacteriales: f__Enterobacteriaceae: g__Erwinia: s__,Low
+Treatment,EN_0.9,-7.04613024858112e-05,OTU_47687,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.9,0.0108007121954116,OTU_1802,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhodospirillales: f__Acetobacteraceae: g__: s__,Low
+Treatment,EN_0.9,1.44361942716539e-05,OTU_40,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Kocuria: s__palustris,Low
+Treatment,EN_0.9,4.49886745533515e-05,OTU_145,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Psychromonadaceae: g__Psychromonas: s__,Low
+Treatment,EN_0.9,-0.0033944326215988,OTU_2149,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.9,-2.2613972695355e-05,OTU_8,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__,High
+Treatment,EN_0.9,0.000489529002765368,OTU_127,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae: g__Ochrobactrum: s__,Low
+Treatment,EN_0.9,0.00323047107600315,OTU_26343,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.9,-0.000225871016552423,OTU_44242,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
+Treatment,EN_0.9,-0.0045897733682879,OTU_540,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Rikenellaceae: g__: s__,High
+Treatment,EN_0.9,-0.000823098701347895,OTU_37143,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.9,-0.00573511374456683,OTU_16595,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.9,-0.00349016410461377,OTU_32822,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.9,0.00869534042061895,OTU_1233,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Enterococcaceae: g__Enterococcus: s__,Low
+Treatment,EN_0.9,-0.00385413898019156,OTU_37035,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Planococcaceae: g__: s__,High
+Treatment,EN_0.9,0.000454920333853131,OTU_40566,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,Low
+Treatment,EN_0.9,0.000962608478838472,OTU_32115,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Brucellaceae,Low
+Treatment,EN_0.9,0.00109272079838541,OTU_50,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__[Tissierellaceae]: g__Peptoniphilus: s__,Low
+Treatment,EN_0.9,-0.00537541265774722,OTU_837,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__: s__,High
+Treatment,EN_0.9,0.00106879072941639,OTU_63,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.9,0.00888431858734445,OTU_6064,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.9,0.000895175837053823,OTU_3040,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Lactobacillaceae: g__Lactobacillus: s__,Low
+Treatment,EN_0.9,-0.00229525970070262,OTU_1250,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Xanthomonadales: f__Xanthomonadaceae: g__: s__,High
+Treatment,EN_0.9,-0.0101364337223735,OTU_1449,k__Bacteria: p__Actinobacteria: c__Thermoleophilia: o__Solirubrobacterales: f__Solirubrobacteraceae: g__: s__,High
+Treatment,EN_0.9,3.88202167945727e-05,OTU_31,k__Bacteria: p__Bacteroidetes: c__Flavobacteriia: o__Flavobacteriales: f__[Weeksellaceae]: g__Wautersiella: s__,Low
+Treatment,EN_0.9,-0.000377396012689156,OTU_43875,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Streptococcus: s__,High
+Treatment,EN_0.9,4.87453730607712e-05,OTU_54,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.9,0.00461867645531208,OTU_25698,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,Low
+Treatment,EN_0.9,0.000203366430782358,OTU_1279,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Bacillaceae: g__Bacillus: s__,Low
+Treatment,EN_0.9,0.000184071013658391,OTU_53,k__Bacteria: p__Chlamydiae: c__Chlamydiia: o__Chlamydiales: f__Rhabdochlamydiaceae: g__Candidatus Rhabdochlamydia: s__,Low
+Treatment,EN_0.9,0.0843183302832754,OTU_1617,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Hyphomicrobiaceae: g__Hyphomicrobium: s__,Low
+Treatment,EN_0.9,0.120430964191638,OTU_7815,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__Phyllobacteriaceae: g__: s__,Low
+Treatment,EN_0.9,-0.00124392436784904,OTU_1156,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__: g__: s__,High
+Treatment,EN_0.9,0.000152207969848989,OTU_57,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Alteromonadales: f__Shewanellaceae: g__Shewanella: s__,Low
+Treatment,EN_0.9,0.000903387574814585,OTU_60,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__Staphylococcaceae,Low
+Treatment,EN_0.9,0.0153643552897324,OTU_8249,Unassigned,Low
+Treatment,EN_0.9,0.000389297886274105,OTU_94,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Actinomycetaceae: g__Actinomyces: s__,Low
+Treatment,EN_0.9,-0.000543992270326365,OTU_168,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Corynebacteriaceae: g__Corynebacterium: s__,High
+Treatment,EN_0.9,-0.0002364554897139,OTU_75,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Geodermatophilaceae: g__Modestobacter: s__,High
+Treatment,EN_0.9,-0.00571148782420505,OTU_46504,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.9,0.000212554956858253,OTU_21,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.9,-0.0245172801505884,OTU_1095,k__Bacteria: p__Firmicutes: c__Clostridia: o__Clostridiales: f__Lachnospiraceae: g__Coprococcus: s__,High
+Treatment,EN_0.9,0.04925447278771,OTU_8711,k__Bacteria: p__Cyanobacteria: c__Synechococcophycideae: o__Synechococcales: f__Acaryochloridaceae: g__Acaryochloris: s__,Low
+Treatment,EN_0.9,-0.000582607065076058,OTU_59,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Oceanospirillales: f__Halomonadaceae: g__Halomonas: s__,High
+Treatment,EN_0.9,0.00785138771923596,OTU_833,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas,Low
+Treatment,EN_0.9,-0.0332333705116875,OTU_974,Unassigned,High
+Treatment,EN_0.9,-0.00139279183266497,OTU_29577,k__Bacteria: p__Firmicutes: c__Bacilli: o__Lactobacillales: f__Streptococcaceae: g__Lactococcus: s__,High
+Treatment,EN_0.9,-0.000206532030004468,OTU_41875,k__Bacteria: p__Cyanobacteria: c__Chloroplast: o__Streptophyta: f__: g__: s__,High
+Treatment,EN_0.9,0.0139754965966235,OTU_599,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Rhizobiales: f__: g__: s__,Low
+Treatment,EN_0.9,0.000344851751038059,OTU_37123,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Pseudomonadaceae: g__Pseudomonas: s__stutzeri,Low
+Treatment,EN_0.9,3.22702064625764e-06,OTU_105,k__Bacteria: p__Bacteroidetes: c__Bacteroidia: o__Bacteroidales: f__Bacteroidaceae: g__Bacteroides: s__,Low
+Treatment,EN_0.9,-0.0233504112713332,OTU_46396,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Intrasporangiaceae: g__: s__,High
+Treatment,EN_0.9,-7.0157866049004e-05,OTU_155,k__Bacteria: p__Actinobacteria: c__Actinobacteria: o__Actinomycetales: f__Micrococcaceae: g__Rothia: s__dentocariosa,High
+Treatment,EN_0.9,-0.000713149263911415,OTU_130,k__Bacteria: p__Firmicutes: c__Bacilli: o__Bacillales: f__[Exiguobacteraceae]: g__: s__,High
+Treatment,EN_0.9,0.00043460199199585,OTU_756,k__Bacteria: p__Proteobacteria: c__Alphaproteobacteria: o__Sphingomonadales: f__Sphingomonadaceae: g__Sphingomonas: s__,Low
+Treatment,EN_0.9,-0.000496209681756359,OTU_277,k__Bacteria: p__Proteobacteria: c__Gammaproteobacteria: o__Pseudomonadales: f__Moraxellaceae: g__Acinetobacter: s__,High
