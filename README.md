@@ -36,9 +36,10 @@ As seen from the command, the script takes in 6 commands. They are as follows:
 
 3) Name of the result/output file produced by the script (which is called **en_lasso_output.csv** in the above example)
 
-4) Loss to use for cross-validation (which is called **auc** in the above example). This is an argument for the function, [cv.glmnet](http://www.inside-r.org/packages/cran/glmnet/docs/cv.glmnet). It corresponds to the ```type.measure``` argument.  For two-class logistic regression only, as implemented in this script, ```auc``` can be used. For more details, read the documentation [here](http://www.inside-r.org/packages/cran/glmnet/docs/cv.glmnet).
+4) Loss to use for cross-validation (which is called **auc** in the above example). This is an argument for the function, [cv.glmnet](http://www.inside-r.org/packages/cran/glmnet/docs/cv.glmnet). It corresponds to the ```type.measure``` argument.  For two-class logistic regression only, as implemented in this script, ```auc``` can be used. For more details about this argument, read the [documentation](http://www.inside-r.org/packages/cran/glmnet/docs/cv.glmnet).
 
-5) 
+5) Family of probability distribution describing response type (which is called **binomial** in the above example). This is an argument for the [glmnet](http://www.inside-r.org/packages/cran/glmnet/docs/glmnet) function.
+If the responsve variable is a factor with two levels, ```binomial``` can be used. For more details about this argument, read the [documentation](http://www.inside-r.org/packages/cran/glmnet/docs/glmnet).
 
 6) No. of cores to use. More cores on machine, faster the analysis will complete (which is **4** in the above example)
 
