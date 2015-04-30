@@ -43,7 +43,7 @@ If the responsve variable is a factor with two levels, ```binomial``` can be use
 
 6) No. of cores to use. More cores on machine, faster the analysis will complete (which is **4** in the above example)
 
-Please ensure that all the 8 arguments are provided, in the correct order and format. Otherwise, the script will crash and cause problems.
+Please ensure that all the 6 arguments are provided, in the correct order and format. Otherwise, the script will crash and cause problems.
 
 Input file format
 ------
