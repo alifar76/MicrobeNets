@@ -55,3 +55,18 @@ Also, please make sure that the mapping file has the same number of samples as t
 Output Explained
 ------
 
+The output of the script contains information about the final model obtained via lasso and elastic nets using leave-one-out cross-validation. Currently, there are 6 columns in the output file (called **en_lasso_output.csv** in the example above) as generated via this script. The columns and their descriptions of the output file are as follows:
+
+1) **Column # 1**: Indicates the name of the meta-data variable used as response variable.
+
+2) **Column # 2**: Indicates the method used to generate the model. There will be 10 distinct values in this column. The ten distinct values are: **Lasso**,**EN_0.1**,**EN_0.2**,**EN_0.3**,**EN_0.4**,**EN_0.5**,**EN_0.6**,**EN_0.7**,**EN_0.8**,**EN_0.9**.
+
+
+
+3) **Column # 3**: Indicates the estimated regression coefficient. The regression coefficient value of X can be interpreted as "*for a unit change in explanatory variable (increase in a count of 1 of an OTU), one would expect X increase/decrease in the log-odds of the response variable*". For more details about this, read the [glmnet vignette](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html#log).
+
+4) **Column # 4**:
+
+5) **Column # 5**:
+
+6) **Column # 6**:
