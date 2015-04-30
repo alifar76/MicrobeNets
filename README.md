@@ -61,7 +61,7 @@ The output of the script contains information about the final model obtained via
 
 2) **Column # 2**: Indicates the method used to generate the model. There will be 10 distinct values in this column. The ten distinct values are: **Lasso**,**EN_0.1**,**EN_0.2**,**EN_0.3**,**EN_0.4**,**EN_0.5**,**EN_0.6**,**EN_0.7**,**EN_0.8**,**EN_0.9**.
 
-\alpha
+\alpha  
 
 **Lasso** refers to 
 
