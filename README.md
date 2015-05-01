@@ -22,7 +22,7 @@ Required R packages
 Running the script
 ------
 
-There is 1 script in the folder src. The one to use is called ```elastic_net_lasso_script.r```. The script is run via command line using the Rscript command (in terminal). There is 1 script in the folder old_scripts but it can be ignored as it is just an older version, saved for trouble-shooting.
+There is 1 script in the folder src. It is called ```elastic_net_lasso_script.r```. The script is run via command line using the Rscript command (in terminal). There is 1 script in the folder old_scripts but it can be ignored as it is just an older version, saved for trouble-shooting.
 
 To run the script, pass the command in following format:
 
@@ -65,7 +65,8 @@ The output of the script contains information about the final model obtained via
 
 Basically, these 10 distinct values indicate the varying levels of &alpha;. [The *elastic-net* penalty is controlled by &alpha;, and bridges the gap between lasso (&alpha;=1, the default) and ridge (&alpha;=0)](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html). Since ridge-regression performs no variable selection, we do not implement it. So, the 10 distinct method names specified in this column indicate the varying levels of &alpha; ranging from 0.1 to 1.0. 
 
-3) **Column # 3**: Indicates the estimated regression coefficient. The regression coefficient value of X can be interpreted as "*for a unit change in explanatory variable (increase in a count of 1 of an OTU), one would expect X increase/decrease in the log-odds of the response variable*". For more details about this, read the [glmnet vignette](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html#log).
+3) **Column # 3**: Indicates the estimated regression coefficient. The regression coefficient value of, say X, can be interpreted as follows:
+"*for a unit change in explanatory variable (increase in a count of 1 of an OTU), one would expect X increase/decrease in the log-odds of the response variable*". For more details about this, read the [glmnet vignette](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html#log).
 
 4) **Column # 4**: Indicates the OTU ID.
 
