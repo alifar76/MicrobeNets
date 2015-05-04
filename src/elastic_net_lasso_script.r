@@ -78,11 +78,9 @@ data_load_run <- function(otuinput,mapfile,outputname,typemeasure,familydist){
 	}
 }
 
-
 # http://stackoverflow.com/questions/17032264/big-matrix-to-run-glmnet
 # Cannot use model.matrix for this dataset as we have over 40,000 OTUs to test
 # family=binomial for two-level factor. type.measure can be 'auc' on Mark Segal's suggestion
-
 
 argv <- commandArgs(TRUE)
 otutable <- argv[1]
