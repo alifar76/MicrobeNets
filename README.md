@@ -63,7 +63,7 @@ The output of the script contains information about the final model obtained via
 
 **Lasso**,**EN_0.1**,**EN_0.2**,**EN_0.3**,**EN_0.4**,**EN_0.5**,**EN_0.6**,**EN_0.7**,**EN_0.8**,**EN_0.9**.
 
-Basically, these 10 distinct values indicate the varying levels of &alpha;. [The *elastic-net* penalty is controlled by &alpha;, and bridges the gap between lasso (&alpha;=1, the default) and ridge (&alpha;=0)](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html). Since ridge-regression performs no variable selection, we do not implement it. So, the 10 distinct method names specified in this column indicate the varying levels of &alpha; ranging from 0.1 to 1.0. 
+Basically, these 10 distinct values indicate the varying levels of &alpha;. [The *elastic-net* penalty is controlled by &alpha;, and bridges the gap between lasso (&alpha;=1, the default) and ridge (&alpha;=0)](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html). Since ridge-regression performs no variable selection, we do not implement it. So, the 10 distinct names specified in this column indicate the varying levels of &alpha; ranging from 0.1 to 1.0. 
 
 3) **Column # 3**: Indicates the estimated regression coefficient. The regression coefficient value of, say X, can be interpreted as follows:
 "*for a unit change in explanatory variable (increase in a count of 1 of an OTU), one would expect X increase/decrease in the log-odds of the response variable*". For more details about this, read the [glmnet vignette](http://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html#log).
