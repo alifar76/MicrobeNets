@@ -1,5 +1,4 @@
 # Elastic Net and Lasso Wrapper Script
-
 # Currently set to perform logistic regression (binary response variable)
 # Rscript elastic_net_lasso_script.r high_vs_low_otu_table.txt high_low_mapfile.txt en_lasso_output.csv auc binomial 4
 
