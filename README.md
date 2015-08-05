@@ -52,6 +52,8 @@ Input of file format should be one compatabile with QIIME. However, please ensur
 
 Also, please make sure that the mapping file has the same number of samples as the OTU tables, having the same sample IDs. If mapping file has more or less sample IDs than the samples in the OTU table, the script will crash.
 
+It is also important to use categorical names for the treatment groups in the mapping file. For instance, names such as High and Low in mapping file are okay to use. Numeric coding of these names as 0 and 1 should not be done as it causes issues with the script.
+
 Output Explained
 ------
 
