@@ -4,6 +4,7 @@
 
 start.time <- Sys.time()
 require(glmnet)
+
 require(doMC)
 
 lasso_enet <- function(x,y,num,methodtype,compid,outputname,typemeasure,familydist,taxnames,one_vec,two_vec){
