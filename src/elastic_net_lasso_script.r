@@ -3,8 +3,9 @@
 # Rscript elastic_net_lasso_script.r high_vs_low_otu_table.txt high_low_mapfile.txt en_lasso_output.csv auc binomial 4
 
 start.time <- Sys.time()
-require(glmnet)
-require(doMC)
+library(glmnet)
+library(doMC)
+library(methods)
 
 lasso_enet <- function(x,y,num,methodtype,compid,outputname,typemeasure,familydist,taxnames,one_vec,two_vec){
 	fitted = glmnet(x, y,standardize=FALSE,alpha=num)
